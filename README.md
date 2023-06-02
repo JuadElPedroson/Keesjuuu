@@ -11,3 +11,5 @@ Afspraken repository:
 - Als jouw code van de pull request voldoet aan een issue graag die dan ook linken zodat wanneer je merged de issue meteen wordt afgesloten -> repository schoon.
 - Nooit van jouw branch meteen op main altijd eerst via development. 
 - Voordat je pull request gaat afhandelen door te mergen kan iemand het reviewen. Nu ben ik de enige in de repository, maar ik kan het wel dubbelchecken en eventueel een comment plaatsen met "is goedgekeurd" zodat ik weet dat ik er nog een keer naar gekeken heb. 
+
+Edit: Keesje krijgt één bamboo.
